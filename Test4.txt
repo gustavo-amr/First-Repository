@@ -1,0 +1,1 @@
+Testing fetch for remote and local copy fo same branch.
