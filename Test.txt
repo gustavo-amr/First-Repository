@@ -1,1 +1,2 @@
 Testing clone and commit.
+Testing with changes local and on GitHub.
