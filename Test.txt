@@ -1,1 +1,2 @@
 Testing clone and commit.
+Second test with changes on both sides.
